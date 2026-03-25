@@ -27,6 +27,27 @@ Note: Not all browsers support ES6 features. If you use ES6 in your own projects
 Regular expressions are special strings that represent a search pattern. Also known as "regex" or "regexp", they help programmers match, search, and replace text. Regular expressions can appear cryptic because a few characters have special meaning. The goal is to combine the symbols and text into a pattern that matches what you want, but only what you want. This section will cover the characters, a few shortcuts, and the common uses for writing regular expressions.
 
 4. [**Debugging**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Debugging) **(12 Tasks)**
+
+Debugging is a valuable—and often necessary—skill for programmers. It comes after testing your code and realizing that something isn’t working as expected. Debugging is the process of identifying what’s wrong and fixing it.
+
+Even well-written code can contain errors, and these issues generally fall into three categories:
+
+Syntax errors: Mistakes in code structure that prevent the program from running
+Runtime errors: Errors that occur while the program is executing
+Semantic (logical) errors: When the code runs but produces incorrect results
+
+Modern code editors (and experience) can help catch syntax errors quickly. However, runtime and semantic errors are often harder to identify. They might cause your program to crash, run indefinitely, or produce incorrect output.
+
+Think of debugging as understanding why your code behaves the way it does.
+
+```js
+funtcion willNotWork(
+  console.log("Yuck");
+}  
+  // "function" keyword is misspelled and there's a missing parenthesis
+```
+
+
 5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Data-Structures) **(20 Tasks)**
 
 A computer algorithm is a sequence of steps followed to achieve a specific outcome. To write an algorithm, you must first understand the problem and then solve it using code.
