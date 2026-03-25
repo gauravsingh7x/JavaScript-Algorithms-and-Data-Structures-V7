@@ -27,6 +27,14 @@ Regular expressions are special strings that represent a search pattern. Also kn
 
 4. [**Debugging**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Debugging) **(12 Tasks)**
 5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Data-Structures) **(20 Tasks)**
+A computer algorithm is a sequence of steps followed to achieve a specific outcome. To write an algorithm, you must first understand the problem and then solve it using code.
+
+To make problem-solving easier, it helps to break a problem into smaller parts. Each part can then be solved step by step. For example, when building a calculator, you shouldn’t try to solve everything at once. Start by figuring out how to take input. Next, implement each arithmetic operation individually. Finally, display the result.
+
+In this section, we will learn how to solve basic algorithm problems using JavaScript. This will help improve your problem-solving skills and prepare you for more complex challenges in the future.
+
+Hint: If you get stuck, try using console.log() to print variable values to the console. This is a useful way to debug and understand what your code is doing.
+
 6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Algorithm-Scripting) **(16 Tasks)**
 7. [**Object Oriented Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Object-Oriented-Programming) **(26 Tasks)**
 8. [**Functional Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Functional-Programming) **(24 Tasks)**
