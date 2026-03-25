@@ -6,7 +6,7 @@ If this repository helped you in any way, feel free to leave a ⭐ — it’s gr
 
 ## Courses
 1. [**Basic JavaScript**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic%20JavaScript.js) **(113 Tasks)**
-2. [**ES6**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/ES6.js) **(29 Tasks)**
+2. [**ES6 Challenges**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/ES6.js) **(29 Tasks)**
 
 ECMAScript is a standardized version of JavaScript with the goal of unifying the language's specifications and features. As all major browsers and JavaScript-runtimes follow this specification, the term ECMAScript is interchangeable with the term JavaScript.
    
