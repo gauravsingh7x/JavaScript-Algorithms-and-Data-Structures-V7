@@ -40,13 +40,37 @@ Modern code editors (and experience) can help catch syntax errors quickly. Howev
 
 Think of debugging as understanding why your code behaves the way it does.
 
+#Syntax Error Example
 ```js
 funtcion willNotWork(
   console.log("Yuck");
 }  
-  // "function" keyword is misspelled and there's a missing parenthesis
+  // "function" keyword is misspelled and there's a missing closing parenthesis
 ```
-
+#Runtime Error Example
+```js
+function loopy() {
+  while(true) {
+    console.log("Hello, JS!");
+  }
+}
+// Calling loopy starts an infinite loop, which may freeze or crash your browser
+```
+#Semantic Error Example
+```js
+function calcAreaOfRect(w, h) {
+  return w + h; // This should be w * h
+}
+let myRectArea = calcAreaOfRect(2, 3);
+// Correct syntax and the program executes, but this gives the wrong answer
+```
+Debugging can be frustrating, but a structured approach makes it easier:
+   Check values step-by-step using tools like console.log()
+   Verify data types and outputs at different stages
+   Use process of elimination:
+         If Function A works, the issue may be in Function B
+   Divide and conquer:
+         Check the middle of your code to narrow down where the bug is
 
 5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Data-Structures) **(20 Tasks)**
 
