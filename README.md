@@ -6,7 +6,7 @@ If this repository helped you in any way, feel free to leave a ⭐ — it’s gr
 
 ## Courses
 1. [**Basic JavaScript**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic%20JavaScript.js) **(113 Tasks)**
-2. [**ES6**](https://github.com/gauravdev-x/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/ES6) **(29 Tasks)**
+2. [**ES6**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/ES6.js) **(29 Tasks)**
 3. [**Regular Expressions**](https://github.com/gauravdev-x/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Regular-Expressions) **(33 Tasks)**
 4. [**Debugging**](https://github.com/gauravdev-x/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Debugging) **(12 Tasks)**
 5. [**Basic Data Structures**](https://github.com/gauravdev-x/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-Data-Structures) **(20 Tasks)**
