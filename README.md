@@ -78,6 +78,13 @@ Debugging can be frustrating, but a structured approach makes it easier:
 
 5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Data-Structures) **(20 Tasks)**
 
+Data can be stored and accessed in many different ways, both in JavaScript and other programming languages.
+In this section, you will learn how to work with arrays, including how to manipulate them and access or copy their contents.
+You will also explore JavaScript objects, learning how to access and modify their data using both dot notation and bracket notation.
+By the end of this section, you should understand the key properties and differences between arrays and objects, as well as how to choose the most appropriate one for a given task.
+
+6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Algorithm-Scripting) **(16 Tasks)**
+
 A computer algorithm is a sequence of steps followed to achieve a specific outcome. To write an algorithm, you must first understand the problem and then solve it using code.
 
 To make problem-solving easier, it helps to break a problem into smaller parts. Each part can then be solved step by step. For example, when building a calculator, you shouldn’t try to solve everything at once. Start by figuring out how to take input. Next, implement each arithmetic operation individually. Finally, display the result.
@@ -85,8 +92,6 @@ To make problem-solving easier, it helps to break a problem into smaller parts. 
 In this section, we will learn how to solve basic algorithm problems using JavaScript. This will help improve your problem-solving skills and prepare you for more complex challenges in the future.
 
 Hint: If you get stuck, try using ```console.log()``` to log variable values to the console. This will help to debug problems.
-
-6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Algorithm-Scripting) **(16 Tasks)**
 
 7. [**Object Oriented Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Object-Oriented-Programming) **(26 Tasks)**
 
