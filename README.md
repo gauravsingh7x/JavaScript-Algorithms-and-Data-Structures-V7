@@ -51,6 +51,18 @@ Your choice of programming approach depends on a few factors. These include the 
 
 8. [**Functional Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Functional-Programming) **(24 Tasks)**
 
+Functional programming is an approach to software development centered around evaluating functions. Similar to mathematics, functions take inputs and map them to outputs to produce a result. By combining simple functions in different ways, you can build more complex programs.
+
+Functional programming follows a few core principles:
+
+Independence from state: Functions should not rely on external or global variables. They should depend only on the arguments passed to them.
+Immutability: Functions should avoid modifying existing data or changing the program’s state. Instead, they should return new data.
+Minimal side effects: Functions should not cause unexpected changes outside their scope (such as modifying global variables or performing hidden operations).
+
+This approach breaks programs into small, reusable, and testable pieces, making code easier to understand, maintain, and debug.
+
+In this section, you will learn the basics of functional programming in JavaScript and how to apply these principles in practice.
+
 9. [**Intermediate Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Intermediate-Algorithm-Scripting) **(21 Tasks)**
 
 
