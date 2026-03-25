@@ -6,6 +6,7 @@ If this repository helped you in any way, feel free to leave a ⭐ — it’s gr
 
 ## Courses
 1. [**Basic JavaScript**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic%20JavaScript.js) **(113 Tasks)**
+
 2. [**ES6 Challenges**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/ES6.js) **(29 Tasks)**
 
 ECMAScript is a standardized version of JavaScript with the goal of unifying the language's specifications and features. As all major browsers and JavaScript-runtimes follow this specification, the term ECMAScript is interchangeable with the term JavaScript.
@@ -37,9 +38,21 @@ In this section, we will learn how to solve basic algorithm problems using JavaS
 Hint: If you get stuck, try using ```console.log()``` to log variable values to the console. This will help to debug problems.
 
 6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Algorithm-Scripting) **(16 Tasks)**
+
 7. [**Object Oriented Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Object-Oriented-Programming) **(26 Tasks)**
+
+At its core, software development solves a problem or achieves a result with computation. The software development process first defines a problem, then presents a solution. Object oriented programming is one of several major approaches to the software development process.
+
+As its name implies, object oriented programming organizes code into object definitions. These are sometimes called classes, and they group together data with related behavior. The data is an object's attributes, and the behavior (or functions) are methods.
+
+The object structure makes it flexible within a program. Objects can transfer information by calling and passing data to another object's methods. Also, new classes can receive, or inherit, all the features from a base or parent class. This helps to reduce repeated code.
+
+Your choice of programming approach depends on a few factors. These include the type of problem, as well as how you want to structure your data and algorithms. This section covers object oriented programming principles in JavaScript.
+
 8. [**Functional Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Functional-Programming) **(24 Tasks)**
+
 9. [**Intermediate Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Intermediate-Algorithm-Scripting) **(21 Tasks)**
+
 
 
 ## Projects
