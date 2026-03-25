@@ -55,19 +55,15 @@ Your choice of programming approach depends on a few factors. These include the 
 
 
 10. [**JavaScript Algorithms and Data Structures Projects**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Intermediate-Algorithm-Scripting) **(5 Projects)
+
 These challenges are similar to algorithm scripting challenges, but they are more difficult. They are designed to help you demonstrate how much you have learned.
 
 In this section, you will build the following small JavaScript programs:
-
 Palindrome Checker
 Roman Numeral Converter
 Caesar’s Cipher
 Telephone Number Validator
 Cash Register
-
- 
-
-
 
 ## Projects
 This section contains the projects I developed to complete the freeCodeCamp learning path and earn the certification, demonstrating practical coding skills along the way.
