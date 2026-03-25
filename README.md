@@ -34,7 +34,7 @@ To make problem-solving easier, it helps to break a problem into smaller parts. 
 
 In this section, we will learn how to solve basic algorithm problems using JavaScript. This will help improve your problem-solving skills and prepare you for more complex challenges in the future.
 
-Hint: If you get stuck, try using console.log() to print variable values to the console. This is a useful way to debug and understand what your code is doing.
+Hint: If you get stuck, try using ```console.log()``` to log variable values to the console. This will help to debug problems.
 
 6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Algorithm-Scripting) **(16 Tasks)**
 7. [**Object Oriented Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Object-Oriented-Programming) **(26 Tasks)**
