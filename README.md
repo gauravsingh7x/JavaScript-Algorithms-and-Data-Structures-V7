@@ -65,10 +65,14 @@ let myRectArea = calcAreaOfRect(2, 3);
 // Correct syntax and the program executes, but this gives the wrong answer
 ```
 Debugging can be frustrating, but a structured approach makes it easier:
-   Check values step-by-step using tools like console.log()
+
+   Check values step-by-step using tools like ```console.log()```
+   
    Verify data types and outputs at different stages
+   
    Use process of elimination:
          If Function A works, the issue may be in Function B
+   
    Divide and conquer:
          Check the middle of your code to narrow down where the bug is
 
