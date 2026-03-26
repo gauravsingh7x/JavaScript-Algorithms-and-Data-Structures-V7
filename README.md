@@ -5,9 +5,9 @@ If this repository helped you in any way, feel free to leave a ⭐ — it’s gr
 </br>
 
 ## Courses
-1. [**Basic JavaScript**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic%20JavaScript.js) **(113 Tasks)**
+1. [**Basic JavaScript**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Basic%20JavaScript.js) **(113 Tasks)**
 
-2. [**ES6 Challenges**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/ES6.js) **(29 Tasks)**
+2. [**ES6 Challenges**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/ES6.js) **(29 Tasks)**
 
 ECMAScript is a standardized version of JavaScript with the goal of unifying the language's specifications and features. As all major browsers and JavaScript-runtimes follow this specification, the term ECMAScript is interchangeable with the term JavaScript.
    
@@ -26,7 +26,7 @@ Note: Not all browsers support ES6 features. If you use ES6 in your own projects
 
 Regular expressions are special strings that represent a search pattern. Also known as "regex" or "regexp", they help programmers match, search, and replace text. Regular expressions can appear cryptic because a few characters have special meaning. The goal is to combine the symbols and text into a pattern that matches what you want, but only what you want. This section will cover the characters, a few shortcuts, and the common uses for writing regular expressions.
 
-4. [**Debugging**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Debugging) **(12 Tasks)**
+4. [**Debugging**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Debugging) **(12 Tasks)**
 
 Debugging is a valuable—and often necessary—skill for programmers. It comes after testing your code and realizing that something isn’t working as expected. Debugging is the process of identifying what’s wrong and fixing it.
 
@@ -76,14 +76,14 @@ Debugging can be frustrating, but a structured approach makes it easier:
    Divide and conquer:
          Check the middle of your code to narrow down where the bug is
 
-5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Data-Structures) **(20 Tasks)**
+5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Basic-Data-Structures) **(20 Tasks)**
 
 Data can be stored and accessed in many different ways, both in JavaScript and other programming languages.
 In this section, you will learn how to work with arrays, including how to manipulate them and access or copy their contents.
 You will also explore JavaScript objects, learning how to access and modify their data using both dot notation and bracket notation.
 By the end of this section, you should understand the key properties and differences between arrays and objects, as well as how to choose the most appropriate one for a given task.
 
-6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Basic-Algorithm-Scripting) **(16 Tasks)**
+6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Basic-Algorithm-Scripting) **(16 Tasks)**
 
 A computer algorithm is a sequence of steps followed to achieve a specific outcome. To write an algorithm, you must first understand the problem and then solve it using code.
 
@@ -93,7 +93,7 @@ In this section, we will learn how to solve basic algorithm problems using JavaS
 
 Hint: If you get stuck, try using ```console.log()``` to log variable values to the console. This will help to debug problems.
 
-7. [**Object Oriented Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Object-Oriented-Programming) **(26 Tasks)**
+7. [**Object Oriented Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Object-Oriented-Programming) **(26 Tasks)**
 
 At its core, software development solves a problem or achieves a result with computation. The software development process first defines a problem, then presents a solution. Object oriented programming is one of several major approaches to the software development process.
 
@@ -103,7 +103,7 @@ The object structure makes it flexible within a program. Objects can transfer in
 
 Your choice of programming approach depends on a few factors. These include the type of problem, as well as how you want to structure your data and algorithms. This section covers object oriented programming principles in JavaScript.
 
-8. [**Functional Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Functional-Programming) **(24 Tasks)**
+8. [**Functional Programming**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Functional-Programming) **(24 Tasks)**
 
 Functional programming is an approach to software development centered around evaluating functions. Similar to mathematics, functions take inputs and map them to outputs to produce a result. By combining simple functions in different ways, you can build more complex programs.
 
@@ -117,10 +117,10 @@ This approach breaks programs into small, reusable, and testable pieces, making 
 
 In this section, you will learn the basics of functional programming in JavaScript and how to apply these principles in practice.
 
-9. [**Intermediate Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Intermediate-Algorithm-Scripting) **(21 Tasks)**
+9. [**Intermediate Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Intermediate-Algorithm-Scripting) **(21 Tasks)**
 
 
-10. [**JavaScript Algorithms and Data Structures Projects**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Intermediate-Algorithm-Scripting) **(5 Projects)
+10. [**JavaScript Algorithms and Data Structures Projects**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Intermediate-Algorithm-Scripting) **(5 Projects)
 
 These challenges are similar to algorithm scripting challenges, but they are more difficult. They are designed to help you demonstrate how much you have learned.
 
