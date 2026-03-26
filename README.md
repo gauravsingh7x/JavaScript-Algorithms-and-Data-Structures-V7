@@ -22,7 +22,7 @@ The most recent standardized version is called ECMAScript 6 (ES6), released in 2
 
 Note: Not all browsers support ES6 features. If you use ES6 in your own projects, you may need to use a program (transpiler) to convert your ES6 code into ES5 until browsers support ES6.
 
-3. [**Regular Expressions Challenges**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/main/Regular-Expressions.js) **(33 Tasks)**
+3. [**Regular Expressions Challenges**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Regular%20Expressions.js) **(33 Tasks)**
 
 Regular expressions are special strings that represent a search pattern. Also known as "regex" or "regexp", they help programmers match, search, and replace text. Regular expressions can appear cryptic because a few characters have special meaning. The goal is to combine the symbols and text into a pattern that matches what you want, but only what you want. This section will cover the characters, a few shortcuts, and the common uses for writing regular expressions.
 
