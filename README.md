@@ -26,7 +26,7 @@ Note: Not all browsers support ES6 features. If you use ES6 in your own projects
 
 Regular expressions are special strings that represent a search pattern. Also known as "regex" or "regexp", they help programmers match, search, and replace text. Regular expressions can appear cryptic because a few characters have special meaning. The goal is to combine the symbols and text into a pattern that matches what you want, but only what you want. This section will cover the characters, a few shortcuts, and the common uses for writing regular expressions.
 
-4. [**Debugging**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Debugging) **(12 Tasks)**
+4. [**Debugging**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Debugging.js) **(12 Tasks)**
 
 Debugging is a valuable—and often necessary—skill for programmers. It comes after testing your code and realizing that something isn’t working as expected. Debugging is the process of identifying what’s wrong and fixing it.
 
