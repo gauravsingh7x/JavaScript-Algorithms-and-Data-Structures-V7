@@ -76,7 +76,7 @@ Debugging can be frustrating, but a structured approach makes it easier:
    Divide and conquer:
          Check the middle of your code to narrow down where the bug is
 
-5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Basic-Data-Structures) **(20 Tasks)**
+5. [**Basic Data Structures**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Basic%20Data%20Structures.js) **(20 Tasks)**
 
 Data can be stored and accessed in many different ways, both in JavaScript and other programming languages.
 In this section, you will learn how to work with arrays, including how to manipulate them and access or copy their contents.
