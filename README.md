@@ -1,5 +1,5 @@
 # Legacy JavaScript Algorithms and Data Structures-V7 Certification
-A structured collection of my [freeCodeCamp.org](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) certification solutions — learning to code, solving challenges, and documenting my journey from “why isn’t this working?” to “oh… now it works.”
+A structured collection of my [freeCodeCamp.org](https://www.freecodecamp.org/certification/gauravdevx/javascript-algorithms-and-data-structures) certification solutions — learning to code, solving challenges, and documenting my journey from “why isn’t this working?” to “oh… now it works.”
 </br>
 If this repository helped you in any way, feel free to leave a ⭐ — it’s greatly appreciated!
 </br>
