@@ -83,7 +83,7 @@ In this section, you will learn how to work with arrays, including how to manipu
 You will also explore JavaScript objects, learning how to access and modify their data using both dot notation and bracket notation.
 By the end of this section, you should understand the key properties and differences between arrays and objects, as well as how to choose the most appropriate one for a given task.
 
-6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Basic-Algorithm-Scripting) **(16 Tasks)**
+6. [**Basic Algorithm Scripting**](https://github.com/gauravdev-x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Basic%20Algorithm%20Scripting.js) **(16 Tasks)**
 
 A computer algorithm is a sequence of steps followed to achieve a specific outcome. To write an algorithm, you must first understand the problem and then solve it using code.
 
