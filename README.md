@@ -93,7 +93,7 @@ In this section, we will learn how to solve basic algorithm problems using JavaS
 
 Hint: If you get stuck, try using ```console.log()``` to log variable values to the console. This will help to debug problems.
 
-7. [**Object Oriented Programming**](https://github.com/gauravsingh7x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Object-Oriented-Programming) **(26 Tasks)**
+7. [**Object Oriented Programming**](https://github.com/gauravsingh7x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Object%20Oriented%20Programming.js) **(26 Tasks)**
 
 At its core, software development solves a problem or achieves a result with computation. The software development process first defines a problem, then presents a solution. Object oriented programming is one of several major approaches to the software development process.
 
