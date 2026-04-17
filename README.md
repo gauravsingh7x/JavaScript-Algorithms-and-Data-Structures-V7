@@ -117,7 +117,7 @@ This approach breaks programs into small, reusable, and testable pieces, making 
 
 In this section, you will learn the basics of functional programming in JavaScript and how to apply these principles in practice.
 
-9. [**Intermediate Algorithm Scripting**](https://github.com/gauravsingh7x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Intermediate-Algorithm-Scripting) **(21 Tasks)**
+9. [**Intermediate Algorithm Scripting**](https://github.com/gauravsingh7x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Intermediate%20Algorithm%20Scripting.js) **(21 Tasks)**
 
 
 10. [**JavaScript Algorithms and Data Structures Projects**](https://github.com/gauravsingh7x/JavaScript-Algorithms-and-Data-Structures-V7/blob/master/Intermediate-Algorithm-Scripting) **(5 Projects)
